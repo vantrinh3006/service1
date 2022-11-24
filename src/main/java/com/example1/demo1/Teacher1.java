@@ -4,5 +4,7 @@ public class Teacher1 {
     public static void main(String[] args) {
 
         System.out.println("This is teacher1 in  service1 ");
+
+        System.out.println("update 2");
     }
 }
